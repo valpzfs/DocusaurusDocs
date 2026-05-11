@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktelegram_bot_web=self.webpackChunktelegram_bot_web||[]).push([["5528"],{1947(e,a,r){r.d(a,{createWardleyServices:()=>t.J});var t=r(2295);r(3345)}}]);

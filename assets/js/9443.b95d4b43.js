@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktelegram_bot_web=self.webpackChunktelegram_bot_web||[]).push([["9443"],{3214(e,t,a){a.d(t,{createPacketServices:()=>b.$});var b=a(5893);a(3345)}}]);
